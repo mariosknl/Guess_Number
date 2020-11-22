@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.4.tar.gz",
-    "react-native-web": "0.13.18"
+    "react-native-web": "0.14.8"
   },
   "devDependencies": {
     "@babel/core": "7.9.6"
