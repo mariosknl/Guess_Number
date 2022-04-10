@@ -16,7 +16,6 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.4.tar.gz",
   },
   "devDependencies": {
-    "@babel/core": "~7.9.0"
   },
   "private": true
 }
